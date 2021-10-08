@@ -4,7 +4,6 @@
 ; SendMode, Input
 SetWorkingDir, %A_ScriptDir%
 SetBatchLines, -1
-#InstallKeybdHook
 
 xbutton := 0
 global functions
